@@ -42,8 +42,10 @@
 6️⃣选择**上月农事日志**(包含：`排水`,`除草`,`除虫`,`施肥`,`浇水`)
 
 7️⃣输入**决策提问**（示例： `"我要提高产量要做什么？"`）
+<div align="center">
+<img src="./assets/short.jpg" width="25%" />
+</div>
 
-<img src="./assets/short.jpg" style="zoom:25%;" />
 
 ## 🗓️长期农事决策
 
@@ -69,8 +71,10 @@
 5️⃣选择**播种时间**
 
 6️⃣输入**决策提问**（示例： `"想让今年收成增加，我要做什么？"`）
+<div align="center">
+<img src="./assets/long.jpg" width="25%" />
+</div>
 
-<img src="./assets/long.jpg" style="zoom:25%;" />
 
 ---
 
@@ -85,3 +89,4 @@
 使用方法：第一步，打开APP，进入登录页面，勾选同意协议选项后使用手机号进行登录。第二步，登录后进入问答页面，在下方输入框中输入想要询问的问题，等待回答。
 
 <div align="center"> <img src="./assets/web.jpg" width="25%" ></img> <img src="./assets/app.jpg" width="25%" ></img> </div>
+
